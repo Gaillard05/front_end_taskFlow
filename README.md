@@ -38,6 +38,8 @@ npm run dev
 ```sh
 npm run build
 ```
+### Install axios to make queries ###
+npm install axios
 
 ### Lint with [ESLint](https://eslint.org/)
 
