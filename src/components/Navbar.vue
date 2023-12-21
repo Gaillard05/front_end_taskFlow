@@ -13,5 +13,5 @@
 </template>
 
 <style sass>
-   @import "../assets/sass/main.sass"; 
+   @import "../assets/sass/style.sass"; 
 </style>
