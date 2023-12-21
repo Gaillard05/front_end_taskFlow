@@ -41,7 +41,7 @@ npm install axios
 ### Install sass ###
 
 ```sh
-npm install sass-loader sass --save-dev
+npm install sass --save-dev
 ```
 
 ### Lint with [ESLint](https://eslint.org/)
