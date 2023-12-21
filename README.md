@@ -43,6 +43,8 @@ npm install axios
 ```sh
 npm install sass --save-dev
 ```
+### Install vue ###
+npm install -g @vue/cli
 
 ### Lint with [ESLint](https://eslint.org/)
 
