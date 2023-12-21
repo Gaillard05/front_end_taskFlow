@@ -33,10 +33,15 @@ npm install
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
+### Install axios to make queries ###
 
 ```sh
-npm run build
+npm install axios
+```
+### Install sass ###
+
+```sh
+npm install sass --save-dev
 ```
 
 ### Lint with [ESLint](https://eslint.org/)
